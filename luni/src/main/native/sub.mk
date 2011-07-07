@@ -14,6 +14,8 @@ LOCAL_SRC_FILES := \
 	java_io_File.cpp \
 	java_io_ObjectStreamClass.cpp \
 	java_lang_Character.cpp \
+	java_lang_Double.cpp \
+	java_lang_Float.cpp \
 	java_lang_Math.cpp \
 	java_lang_ProcessManager.cpp \
 	java_lang_RealToString.cpp \
